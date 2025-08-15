@@ -53,10 +53,3 @@
 └── [...]               
 ```
 
-<br><br>
-## 💡Install Dependency
-
-```bash
-pip install -r requirements.txt
-```
-
